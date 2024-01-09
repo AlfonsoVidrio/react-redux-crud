@@ -1,0 +1,14 @@
+/* App.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1a202c;
+  color: white;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+}
